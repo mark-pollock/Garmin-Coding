@@ -1,0 +1,7 @@
+<resources>
+    <string id="AppName">RestingHeartRate2</string>
+    <string id="Menu1Line1">Press start</string>
+    <string id="Menu1Line2">to commence</string>
+    <string id="Menu1Line3">resting heart rate</string>
+    <string id="Menu1Line4">test.</string>
+</resources>

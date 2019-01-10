@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1View.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1MenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1Delegate.mc" lineNum="5" pc="268435654" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1Delegate.mc" lineNum="6" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1Delegate.mc" lineNum="9" pc="268435677" symbol="onMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1Delegate.mc" lineNum="10" pc="268435681" symbol="onMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1Delegate.mc" lineNum="11" pc="268435765" symbol="onMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="6" pc="268435769" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="7" pc="268435773" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="11" pc="268435792" symbol="onStart"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="15" pc="268435797" symbol="onStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="19" pc="268435802" symbol="getInitialView"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\Resting HR_1\\source\\RestingHR_1App.mc" lineNum="20" pc="268435806" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268435874" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268435878" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268435896" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268435948" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268436001" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436013" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436176" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436201" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436253" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="23" symbol="item_2"/>
+<entry id="22" symbol="item_1"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry field="true" id="18" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="12" object="true" symbol="RestingHR_1App"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="RestingHR_1View"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="11" object="true" symbol="RestingHR_1Delegate"/>
+<entry id="10" object="true" symbol="RestingHR_1MenuDelegate"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435551" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435654" name="item" stackId="1" startPc="268435579"/>
+<entry endPc="268435797" name="state" stackId="1" startPc="268435792"/>
+<entry endPc="268435802" name="state" stackId="1" startPc="268435797"/>
+<entry endPc="268436270" name="rez_cmp_local_bitmap_NRCO94E6ZN" stackId="2" startPc="268436013"/>
+<entry endPc="268436270" name="rez_cmp_local_bitmap_NRCO94E6ZN_fontHeight" stackId="3" startPc="268436013"/>
+<entry endPc="268436271" name="dc" stackId="1" startPc="268436001"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="RestingHR_1View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RestingHR_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RestingHR_1View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RestingHR_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RestingHR_1View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RestingHR_1MenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="RestingHR_1MenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RestingHR_1Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="RestingHR_1Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RestingHR_1App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="RestingHR_1App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="RestingHR_1App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="RestingHR_1App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="RestingHR_1App" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="RestingHR_1MenuDelegate" type="class"/>
+<dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="442" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="481" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="528" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="590" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="629" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="692" parentId="globals" symbolId="RestingHR_1Delegate" type="class"/>
+<dataEntry offset="747" parentId="globals" symbolId="RestingHR_1View" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

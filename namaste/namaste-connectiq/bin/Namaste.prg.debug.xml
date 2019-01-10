@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="47" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="48" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="49" pc="268435473" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="50" pc="268435486" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="51" pc="268435499" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="61" pc="268435513" symbol="parse"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="62" pc="268435517" symbol="parse"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="63" pc="268435538" symbol="parse"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="64" pc="268435559" symbol="parse"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="65" pc="268435580" symbol="parse"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="69" pc="268435602" symbol="parseEventCount"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="70" pc="268435606" symbol="parseEventCount"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="73" pc="268435616" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="74" pc="268435620" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="75" pc="268435643" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="76" pc="268435643" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="77" pc="268435654" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="79" pc="268435686" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="81" pc="268435699" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="82" pc="268435709" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="83" pc="268435734" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="86" pc="268435743" symbol="parseLowTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="89" pc="268435747" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="90" pc="268435751" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="91" pc="268435767" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="92" pc="268435767" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="93" pc="268435778" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="94" pc="268435810" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="97" pc="268435836" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="99" pc="268435868" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="100" pc="268435878" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="101" pc="268435903" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="104" pc="268435912" symbol="parseHighTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="107" pc="268435916" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="108" pc="268435920" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="109" pc="268435936" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="110" pc="268435936" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="111" pc="268435947" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="112" pc="268435979" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="115" pc="268436005" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="117" pc="268436031" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="118" pc="268436041" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="119" pc="268436066" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="121" pc="268436075" symbol="parseCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="126" pc="268436080" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="128" pc="268436084" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="131" pc="268436142" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="134" pc="268436184" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="143" pc="268436334" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="145" pc="268436360" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="146" pc="268436390" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="151" pc="268436401" symbol="getCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="152" pc="268436405" symbol="getCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="153" pc="268436416" symbol="getCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="155" pc="268436425" symbol="getCurrentTemp"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="160" pc="268436441" symbol="open"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="162" pc="268436445" symbol="open"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="164" pc="268436463" symbol="open"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="165" pc="268436493" symbol="open"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="166" pc="268436506" symbol="open"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="170" pc="268436517" symbol="closeSensor"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="171" pc="268436521" symbol="closeSensor"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="176" pc="268436540" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="178" pc="268436544" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="180" pc="268436557" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="181" pc="268436581" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="183" pc="268436622" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="184" pc="268436633" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="187" pc="268436643" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="189" pc="268436671" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="190" pc="268436695" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="191" pc="268436726" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="193" pc="268436736" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="194" pc="268436762" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="200" pc="268436817" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="201" pc="268436847" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="202" pc="268436877" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\TempeSensor.mc" lineNum="205" pc="268436922" symbol="onMessage"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="20" pc="268436942" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="22" pc="268436946" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="24" pc="268436964" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="25" pc="268436993" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="27" pc="268437022" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="28" pc="268437031" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="29" pc="268437074" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="34" pc="268437109" symbol="onLayout"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="36" pc="268437113" symbol="onLayout"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="38" pc="268437150" symbol="onLayout"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="44" pc="268437181" symbol="onShow"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="45" pc="268437185" symbol="onShow"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="49" pc="268437227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="51" pc="268437231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="53" pc="268437251" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="54" pc="268437270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="56" pc="268437344" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="58" pc="268437367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="62" pc="268437393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="68" pc="268437414" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="69" pc="268437418" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="73" pc="268437437" symbol="onTimer"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteView.mc" lineNum="74" pc="268437441" symbol="onTimer"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteProgressDelegate.mc" lineNum="13" pc="268437458" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteProgressDelegate.mc" lineNum="14" pc="268437462" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteProgressDelegate.mc" lineNum="18" pc="268437481" symbol="onBack"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteProgressDelegate.mc" lineNum="19" pc="268437485" symbol="onBack"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="43" pc="268437489" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="45" pc="268437493" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="47" pc="268437535" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="49" pc="268437549" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="51" pc="268437562" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="53" pc="268437575" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="55" pc="268437588" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="57" pc="268437601" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="60" pc="268437640" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="63" pc="268437670" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="65" pc="268437732" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="66" pc="268437805" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="70" pc="268437879" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="72" pc="268437883" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="74" pc="268437901" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="76" pc="268437937" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="78" pc="268437978" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="82" pc="268437997" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="84" pc="268438001" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="86" pc="268438019" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="88" pc="268438037" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="92" pc="268438056" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="93" pc="268438060" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="97" pc="268438079" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="98" pc="268438083" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="102" pc="268438102" symbol="getTotalNamastes"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="103" pc="268438106" symbol="getTotalNamastes"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="108" pc="268438116" symbol="getCurrentNamastes"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="109" pc="268438120" symbol="getCurrentNamastes"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="113" pc="268438130" symbol="getTimeElapsed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="114" pc="268438134" symbol="getTimeElapsed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="118" pc="268438144" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="119" pc="268438148" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="122" pc="268438165" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="123" pc="268438176" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="125" pc="268438204" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="128" pc="268438266" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="129" pc="268438283" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="131" pc="268438305" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="132" pc="268438305" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="135" pc="268438309" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="136" pc="268438325" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="141" pc="268438397" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="143" pc="268438415" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="144" pc="268438428" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="146" pc="268438500" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="149" pc="268438570" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="150" pc="268438581" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="154" pc="268438588" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="155" pc="268438592" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="160" pc="268438609" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="161" pc="268438630" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="162" pc="268438656" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="163" pc="268438669" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="166" pc="268438694" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="170" pc="268438707" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="172" pc="268438733" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="175" pc="268438765" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteModel.mc" lineNum="176" pc="268438778" symbol="accelCallback"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="20" pc="268438798" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="21" pc="268438802" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="22" pc="268438820" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="27" pc="268438850" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="28" pc="268438854" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="29" pc="268438865" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="30" pc="268438883" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="32" pc="268438900" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="33" pc="268438918" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="35" pc="268438924" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="36" pc="268438942" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteMenuDelegate.mc" lineNum="38" pc="268438945" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="19" pc="268438949" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="21" pc="268438953" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="23" pc="268438971" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="27" pc="268439001" symbol="onSelect"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="29" pc="268439005" symbol="onSelect"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="30" pc="268439023" symbol="onSelect"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="34" pc="268439027" symbol="onMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteDelegate.mc" lineNum="35" pc="268439031" symbol="onMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="23" pc="268439035" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="26" pc="268439039" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="28" pc="268439048" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="30" pc="268439077" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="34" pc="268439088" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="36" pc="268439092" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="38" pc="268439110" symbol="start"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="42" pc="268439121" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="44" pc="268439125" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="46" pc="268439143" symbol="stop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="50" pc="268439154" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="52" pc="268439158" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="55" pc="268439176" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="56" pc="268439258" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="57" pc="268439292" symbol="save"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="60" pc="268439334" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="62" pc="268439338" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="65" pc="268439356" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="66" pc="268439438" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="67" pc="268439472" symbol="discard"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="71" pc="268439514" symbol="isRunning"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="72" pc="268439518" symbol="isRunning"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="76" pc="268439528" symbol="getTime"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="77" pc="268439532" symbol="getTime"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="81" pc="268439551" symbol="onStartStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="82" pc="268439555" symbol="onStartStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="83" pc="268439566" symbol="onStartStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="84" pc="268439578" symbol="onStartStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="86" pc="268439665" symbol="onStartStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="91" pc="268439678" symbol="onExit"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteController.mc" lineNum="92" pc="268439682" symbol="onExit"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="14" pc="268439699" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="15" pc="268439703" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="16" pc="268439721" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="17" pc="268439755" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="21" pc="268439790" symbol="onStart"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="25" pc="268439795" symbol="onStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="29" pc="268439800" symbol="getInitialView"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\namaste\\namaste-connectiq\\source\\NamasteApp.mc" lineNum="30" pc="268439804" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268439880" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268439884" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268439902" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268439954" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268440006" symbol="initialize"/>
+<entry filename="Rez" lineNum="38" pc="268440059" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268440071" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268440275" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268440300" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268440352" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="48" pc="268440398" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388698" method="true" symbol="start"/>
+<entry id="17" object="true" symbol="NamasteApp"/>
+<entry id="25" method="true" symbol="onStartStop"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="16" object="true" symbol="NamasteController"/>
+<entry field="true" id="18" symbol="model"/>
+<entry field="true" id="20" symbol="mTimer"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="81" symbol="resume"/>
+<entry field="true" id="74" symbol="mEnvironmentSensor"/>
+<entry id="52" object="true" symbol="TempeData"/>
+<entry id="53" object="true" symbol="TempeDataPage"/>
+<entry field="true" id="64" symbol="lowTemp"/>
+<entry id="8389256" method="true" symbol="open"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8388883" method="true" symbol="discard"/>
+<entry field="true" id="19" symbol="controller"/>
+<entry field="true" id="36" symbol="namaste_graph_label"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="26" method="true" symbol="onExit"/>
+<entry id="55" method="true" symbol="closeSensor"/>
+<entry id="8389299" method="true" symbol="parse"/>
+<entry id="34" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry field="true" id="72" symbol="mZones"/>
+<entry id="54" method="true" symbol="getCurrentTemp"/>
+<entry field="true" id="75" symbol="mCurrentNamasteField"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="35" method="true" symbol="MainLayout"/>
+<entry field="true" id="29" symbol="mPrompt"/>
+<entry field="true" id="8389270" symbol="messagePeriod"/>
+<entry id="59" method="true" symbol="parseLowTemp"/>
+<entry field="true" id="44" symbol="mDeathTimer"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="49" symbol="pastEventCount"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8389245" symbol="deviceType"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry field="true" id="47" symbol="chanAssign"/>
+<entry id="14" object="true" symbol="NamasteMenuDelegate"/>
+<entry id="80" method="true" symbol="accelCallback"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry field="true" id="8389807" symbol="data"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="13" object="true" symbol="NamasteModel"/>
+<entry field="true" id="43" symbol="AppName"/>
+<entry id="78" method="true" symbol="getCurrentNamastes"/>
+<entry id="24" method="true" symbol="getTime"/>
+<entry field="true" id="8389244" symbol="deviceNumber"/>
+<entry id="77" method="true" symbol="getTotalNamastes"/>
+<entry id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="33" symbol="LauncherIcon"/>
+<entry id="58" method="true" symbol="parseEventCount"/>
+<entry field="true" id="71" symbol="mSeconds"/>
+<entry field="true" id="69" symbol="mNamaste"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388634" module="true" symbol="Ant"/>
+<entry field="true" id="39" symbol="menu_label_3"/>
+<entry field="true" id="41" symbol="menu_label_2"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="40" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="63" symbol="eventCount"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="45" symbol="DEVICE_TYPE"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="73" symbol="mSession"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="70" symbol="mTotalNamastes"/>
+<entry field="true" id="38" symbol="namaste_label"/>
+<entry id="10" object="true" symbol="TempeSensor"/>
+<entry id="8389348" symbol="font"/>
+<entry id="23" method="true" symbol="isRunning"/>
+<entry field="true" id="37" symbol="namaste_units"/>
+<entry id="8389347" symbol="color"/>
+<entry id="56" method="true" symbol="onMessage"/>
+<entry id="60" method="true" symbol="parseHighTemp"/>
+<entry field="true" id="8389271" symbol="radioFrequency"/>
+<entry field="true" id="8389246" symbol="transmissionType"/>
+<entry field="true" id="46" symbol="PERIOD"/>
+<entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="22" symbol="mRunning"/>
+<entry field="true" id="21" symbol="mModel"/>
+<entry id="11" object="true" symbol="NamasteView"/>
+<entry field="true" id="48" symbol="searching"/>
+<entry id="32" module="true" symbol="Layouts"/>
+<entry field="true" id="42" symbol="prompt"/>
+<entry field="true" id="27" symbol="mController"/>
+<entry field="true" id="8389274" symbol="searchThreshold"/>
+<entry id="61" method="true" symbol="parseCurrentTemp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="50" symbol="deviceCfg"/>
+<entry id="12" object="true" symbol="NamasteProgressDelegate"/>
+<entry field="true" id="68" symbol="mSampleCounter"/>
+<entry id="8388882" method="true" symbol="save"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389780" module="true" symbol="FitContributor"/>
+<entry field="true" id="51" symbol="tempDataAvailable"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="66" symbol="currentTemp"/>
+<entry field="true" id="67" symbol="mSamples"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="79" method="true" symbol="getTimeElapsed"/>
+<entry field="true" id="28" symbol="mLabel"/>
+<entry id="31" module="true" symbol="Menus"/>
+<entry id="15" object="true" symbol="NamasteDelegate"/>
+<entry field="true" id="65" symbol="highTemp"/>
+<entry id="8388699" method="true" symbol="stop"/>
+<entry id="8389847" symbol="mesgType"/>
+<entry id="30" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="76" symbol="mTotalNamasteField"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="62" symbol="PAGE_NUMBER"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435602" name="data" stackId="2" startPc="268435513"/>
+<entry endPc="268435602" name="payload" stackId="1" startPc="268435513"/>
+<entry endPc="268435616" name="payload" stackId="1" startPc="268435602"/>
+<entry endPc="268435746" name="lowTemp" stackId="3" startPc="268435620"/>
+<entry endPc="268435746" name="intHigh" stackId="2" startPc="268435620"/>
+<entry endPc="268435747" name="payload" stackId="1" startPc="268435616"/>
+<entry endPc="268435915" name="intHigh" stackId="2" startPc="268435751"/>
+<entry endPc="268435915" name="highTemp" stackId="3" startPc="268435751"/>
+<entry endPc="268435916" name="payload" stackId="1" startPc="268435747"/>
+<entry endPc="268436078" name="currentTemp" stackId="3" startPc="268435920"/>
+<entry endPc="268436078" name="intHigh" stackId="2" startPc="268435920"/>
+<entry endPc="268436079" name="payload" stackId="1" startPc="268435916"/>
+<entry endPc="268436787" name="dp" stackId="3" startPc="268436622"/>
+<entry endPc="268436941" name="payload" stackId="2" startPc="268436544"/>
+<entry endPc="268436942" name="msg" stackId="1" startPc="268436540"/>
+<entry endPc="268437181" name="dc" stackId="1" startPc="268437109"/>
+<entry endPc="268437364" name="timeString" stackId="3" startPc="268437251"/>
+<entry endPc="268437364" name="time" stackId="2" startPc="268437251"/>
+<entry endPc="268437414" name="dc" stackId="1" startPc="268437227"/>
+<entry endPc="268438596" name="dot" stackId="8" startPc="268438415"/>
+<entry endPc="268438596" name="magB" stackId="7" startPc="268438415"/>
+<entry endPc="268438609" name="i" stackId="6" startPc="268438415"/>
+<entry endPc="268438797" name="result" stackId="5" startPc="268438305"/>
+<entry endPc="268438797" name="b" stackId="3" startPc="268438305"/>
+<entry endPc="268438797" name="a" stackId="2" startPc="268438305"/>
+<entry endPc="268438797" name="magA" stackId="4" startPc="268438305"/>
+<entry endPc="268438797" name="info" stackId="1" startPc="268438148"/>
+<entry endPc="268438949" name="item" stackId="1" startPc="268438850"/>
+<entry endPc="268439795" name="state" stackId="1" startPc="268439790"/>
+<entry endPc="268439800" name="state" stackId="1" startPc="268439795"/>
+<entry endPc="268440415" name="rez_cmp_local_bitmap_MainLabel_fontHeight" stackId="3" startPc="268440071"/>
+<entry endPc="268440415" name="rez_cmp_local_bitmap_MainLabel" stackId="2" startPc="268440071"/>
+<entry endPc="268440416" name="dc" stackId="1" startPc="268440059"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="TempeData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="parse" parent="TempeDataPage">
+<param id="payload"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="parseEventCount" parent="TempeDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="parseLowTemp" parent="TempeDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="parseHighTemp" parent="TempeDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="parseCurrentTemp" parent="TempeDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TempeSensor">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentTemp" parent="TempeSensor">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="open" parent="TempeSensor">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="closeSensor" parent="TempeSensor">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMessage" parent="TempeSensor">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="NamasteView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="NamasteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="NamasteView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="NamasteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimer" parent="NamasteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteProgressDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="NamasteProgressDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="save" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="discard" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTotalNamastes" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentNamastes" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTimeElapsed" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="accelCallback" parent="NamasteModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="NamasteMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="NamasteDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="NamasteDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="save" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="discard" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isRunning" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTime" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStartStop" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExit" parent="NamasteController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NamasteApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="NamasteApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="NamasteApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="NamasteApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="270" parentId="globals" symbolId="NamasteApp" type="class"/>
+<dataEntry offset="357" parentId="globals" symbolId="NamasteController" type="class"/>
+<dataEntry offset="492" parentId="globals" symbolId="NamasteView" type="class"/>
+<dataEntry offset="619" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="698" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="737" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="776" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="823" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="854" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="885" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="924" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1019" parentId="globals" symbolId="NamasteMenuDelegate" type="class"/>
+<dataEntry offset="1090" parentId="globals" symbolId="NamasteDelegate" type="class"/>
+<dataEntry offset="1161" parentId="globals" symbolId="NamasteProgressDelegate" type="class"/>
+<dataEntry offset="1216" parentId="globals" symbolId="TempeSensor" type="class"/>
+<dataEntry offset="1391" parentId="TempeSensor" symbolId="TempeDataPage" type="class"/>
+<dataEntry offset="1517" parentId="TempeSensor" symbolId="TempeData" type="class"/>
+<dataEntry offset="1596" parentId="globals" symbolId="NamasteModel" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

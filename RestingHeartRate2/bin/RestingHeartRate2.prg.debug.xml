@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="11" pc="268435479" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="12" pc="268435483" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="13" pc="268435494" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="16" pc="268435529" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="17" pc="268435557" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="18" pc="268435629" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="20" pc="268435664" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StopMenu.mc" lineNum="21" pc="268435725" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="9" pc="268435750" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="10" pc="268435754" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="13" pc="268435773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="14" pc="268435777" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="15" pc="268435813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="17" pc="268435825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="18" pc="268435861" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="19" pc="268435924" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="20" pc="268435987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="21" pc="268436050" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="27" pc="268436114" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="28" pc="268436118" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="31" pc="268436137" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="32" pc="268436141" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\StartMenu.mc" lineNum="34" pc="268436198" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="13" pc="268436274" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="14" pc="268436278" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="16" pc="268436297" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="17" pc="268436301" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="18" pc="268436312" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="19" pc="268436332" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="20" pc="268436350" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="21" pc="268436368" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="28" pc="268436380" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="30" pc="268436410" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="31" pc="268436430" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="32" pc="268436448" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="34" pc="268436469" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="35" pc="268436478" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="37" pc="268436499" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="42" pc="268436519" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="43" pc="268436531" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="44" pc="268436559" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="45" pc="268436575" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="46" pc="268436589" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="47" pc="268436611" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\SaveMenu.mc" lineNum="48" pc="268436633" symbol="createSaveMenu"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="5" pc="268436637" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="6" pc="268436641" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="9" pc="268436660" symbol="onStart"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="11" pc="268436664" symbol="onStart"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="14" pc="268436668" symbol="getInitialView"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="16" pc="268436672" symbol="getInitialView"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="19" pc="268436740" symbol="onStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\RestingHR.mc" lineNum="21" pc="268436744" symbol="onStop"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="51" pc="268436748" symbol="onShow"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="52" pc="268436752" symbol="onShow"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="55" pc="268436763" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="56" pc="268436767" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="57" pc="268436777" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="58" pc="268436793" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="59" pc="268436819" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="60" pc="268436840" symbol="onHide"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="63" pc="268436865" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="64" pc="268436869" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="65" pc="268436887" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="67" pc="268436929" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="68" pc="268436961" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="71" pc="268437013" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="73" pc="268437026" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="74" pc="268437039" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="76" pc="268437052" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="77" pc="268437065" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="79" pc="268437078" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="80" pc="268437091" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="82" pc="268437104" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="83" pc="268437117" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="86" pc="268437130" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="87" pc="268437143" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="89" pc="268437156" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="91" pc="268437169" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="93" pc="268437185" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="94" pc="268437198" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="95" pc="268437211" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="97" pc="268437224" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="98" pc="268437237" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="99" pc="268437265" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="100" pc="268437293" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="104" pc="268437306" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="106" pc="268437332" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="107" pc="268437362" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="111" pc="268437391" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="114" pc="268437404" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="120" pc="268437466" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="121" pc="268437473" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="128" pc="268437556" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="131" pc="268437575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="132" pc="268437579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="133" pc="268437615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="135" pc="268437627" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="137" pc="268437663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="138" pc="268437732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="141" pc="268437801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="142" pc="268437837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="143" pc="268437906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="145" pc="268437975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="146" pc="268438011" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="147" pc="268438080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="149" pc="268438149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="150" pc="268438185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="151" pc="268438254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="153" pc="268438323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="156" pc="268438420" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="157" pc="268438424" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="158" pc="268438435" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="159" pc="268438445" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="161" pc="268438445" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="162" pc="268438452" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="164" pc="268438456" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="165" pc="268438486" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="166" pc="268438506" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="168" pc="268438525" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="170" pc="268438529" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="175" pc="268438570" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="179" pc="268438583" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="180" pc="268438617" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="182" pc="268438624" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="183" pc="268438629" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="184" pc="268438651" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="186" pc="268438679" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="187" pc="268438686" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="190" pc="268438699" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="191" pc="268438747" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="194" pc="268438757" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="198" pc="268438791" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="199" pc="268438825" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="200" pc="268438835" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="203" pc="268438869" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="206" pc="268438894" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="210" pc="268438917" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="211" pc="268438954" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="212" pc="268438967" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="214" pc="268438980" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="215" pc="268439010" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="217" pc="268439056" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="219" pc="268439077" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="221" pc="268439096" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="222" pc="268439126" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="224" pc="268439167" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="226" pc="268439204" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="227" pc="268439234" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="229" pc="268439280" symbol="onSnsr"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="239" pc="268439302" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="240" pc="268439306" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="242" pc="268439325" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="243" pc="268439329" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\MainView.mc" lineNum="245" pc="268439386" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="22" pc="268439474" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="24" pc="268439478" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="25" pc="268439491" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="27" pc="268439523" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="29" pc="268439534" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="31" pc="268439558" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="32" pc="268439569" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="33" pc="268439579" symbol="initialize"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="37" pc="268439590" symbol="setColor"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="39" pc="268439594" symbol="setColor"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="43" pc="268439605" symbol="setMinRange"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="45" pc="268439609" symbol="setMinRange"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="48" pc="268439620" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="50" pc="268439624" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="51" pc="268439628" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="53" pc="268439632" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="55" pc="268439663" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="58" pc="268439682" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="59" pc="268439698" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="63" pc="268439717" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="65" pc="268439737" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="69" pc="268439791" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="72" pc="268439798" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="74" pc="268439818" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="78" pc="268439872" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="82" pc="268439879" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="84" pc="268439898" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="85" pc="268439917" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="87" pc="268439946" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="90" pc="268439962" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="92" pc="268439967" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="93" pc="268439967" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="94" pc="268439983" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="96" pc="268440013" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="98" pc="268440030" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="101" pc="268440059" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="104" pc="268440078" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="106" pc="268440083" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="107" pc="268440083" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="108" pc="268440099" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="110" pc="268440129" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="112" pc="268440146" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="115" pc="268440175" symbol="addItem"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="126" pc="268440198" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="128" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="129" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="130" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="131" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="132" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="133" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="134" pc="268440202" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="135" pc="268440227" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="136" pc="268440252" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="137" pc="268440252" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="139" pc="268440259" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="140" pc="268440266" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="141" pc="268440288" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="142" pc="268440298" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="143" pc="268440320" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="144" pc="268440330" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="145" pc="268440352" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="146" pc="268440362" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="147" pc="268440384" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="150" pc="268440394" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="153" pc="268440413" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="156" pc="268440441" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="157" pc="268440457" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="158" pc="268440488" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="160" pc="268440501" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="162" pc="268440515" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="163" pc="268440537" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="166" pc="268440550" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="167" pc="268440560" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="168" pc="268440600" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="169" pc="268440603" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="171" pc="268440636" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="173" pc="268440652" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="174" pc="268440656" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="175" pc="268440687" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="177" pc="268440700" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="179" pc="268440707" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="180" pc="268440727" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="181" pc="268440731" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="182" pc="268440741" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="186" pc="268440800" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="188" pc="268440821" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="190" pc="268440837" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="191" pc="268440841" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="192" pc="268440872" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="194" pc="268440885" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="196" pc="268440892" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="197" pc="268440912" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="198" pc="268440916" symbol="draw"/>
+<entry filename="C:\\Users\\markp\\eclipse-workspace\\RestingHeartRate2\\source\\Graph.mc" lineNum="199" pc="268440926" symbol="draw"/>
+<entry filename="Rez" lineNum="16" pc="268440989" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268440993" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268441011" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268441033" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268441055" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="13" symbol="RHR_field"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="47" symbol="label4Height"/>
+<entry field="true" id="61" symbol="bestAverageField"/>
+<entry field="true" id="17" symbol="global_bestAverage"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="46" symbol="label3Height"/>
+<entry field="true" id="50" symbol="HR_sampleTime"/>
+<entry field="true" id="38" symbol="string_HR"/>
+<entry field="true" id="12" symbol="record"/>
+<entry field="true" id="53" symbol="string_currentAvg"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="8389095" method="true" symbol="addItem"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389849" symbol="units"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="33" symbol="graphIndex"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry id="8388649" module="true" object="true" symbol="Test"/>
+<entry field="true" id="36" symbol="graphColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="62" method="true" symbol="onSnsr"/>
+<entry field="true" id="18" symbol="global_avgPeriod"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="37" method="true" symbol="setMinRange"/>
+<entry id="11" object="true" symbol="StartMenu_BehaviorDelegate"/>
+<entry field="true" id="49" symbol="HR_bestAvg"/>
+<entry field="true" id="58" symbol="arr"/>
+<entry id="65" symbol="item_3"/>
+<entry id="64" symbol="item_2"/>
+<entry id="63" symbol="item_1"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="15" method="true" symbol="createSaveMenu"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389553" method="true" symbol="onKeyPressed"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="9" object="true" symbol="StopMenu_MenuDelegate"/>
+<entry field="true" id="57" symbol="string_label4"/>
+<entry field="true" id="56" symbol="string_label3"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="55" symbol="string_label2"/>
+<entry field="true" id="54" symbol="string_label1"/>
+<entry field="true" id="51" symbol="string_bestAvg"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="10" object="true" symbol="StartMenu"/>
+<entry field="true" id="41" symbol="field2Height"/>
+<entry field="true" id="40" symbol="field1Height"/>
+<entry field="true" id="52" symbol="string_min"/>
+<entry field="true" id="39" symbol="HR_graph"/>
+<entry id="26" object="true" symbol="StopMenu"/>
+<entry id="20" object="true" symbol="MainView"/>
+<entry field="true" id="48" symbol="HR_min"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="16" object="true" symbol="RestingHR"/>
+<entry id="21" object="true" symbol="MainView_BehaviorDelegate"/>
+<entry field="true" id="34" symbol="graphRange"/>
+<entry id="24" module="true" symbol="Layouts"/>
+<entry field="true" id="45" symbol="label2Height"/>
+<entry field="true" id="44" symbol="label1Height"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="35" symbol="graphMinRange"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389780" module="true" symbol="FitContributor"/>
+<entry id="22" object="true" symbol="LineGraph"/>
+<entry field="true" id="59" symbol="avgPeriod"/>
+<entry field="true" id="60" symbol="inForeground"/>
+<entry field="true" id="43" symbol="field4Height"/>
+<entry id="23" module="true" symbol="Menus"/>
+<entry field="true" id="42" symbol="field3Height"/>
+<entry field="true" id="19" symbol="global_recordingSession"/>
+<entry field="true" id="27" symbol="Menu1Line4"/>
+<entry field="true" id="28" symbol="Menu1Line3"/>
+<entry field="true" id="29" symbol="Menu1Line2"/>
+<entry field="true" id="30" symbol="Menu1Line1"/>
+<entry field="true" id="32" symbol="graphArray"/>
+<entry id="8389847" symbol="mesgType"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="14" object="true" symbol="SaveMenu_MenuDelegate"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435750" name="item" stackId="1" startPc="268435479"/>
+<entry endPc="268436114" name="dc" stackId="1" startPc="268435773"/>
+<entry endPc="268436274" name="keyEvent" stackId="1" startPc="268436137"/>
+<entry endPc="268436519" name="item" stackId="1" startPc="268436297"/>
+<entry endPc="268436636" name="titleString" stackId="2" startPc="268436531"/>
+<entry endPc="268436636" name="menu" stackId="1" startPc="268436531"/>
+<entry endPc="268436668" name="state" stackId="1" startPc="268436660"/>
+<entry endPc="268436748" name="state" stackId="1" startPc="268436740"/>
+<entry endPc="268437391" name="i" stackId="1" startPc="268437362"/>
+<entry endPc="268437574" name="BEST_AVERAGE_ID" stackId="2" startPc="268436869"/>
+<entry endPc="268438420" name="dc" stackId="1" startPc="268437575"/>
+<entry endPc="268438570" name="i" stackId="6" startPc="268438486"/>
+<entry endPc="268439056" name="i" stackId="7" startPc="268439010"/>
+<entry endPc="268439093" name="currentAvg" stackId="4" startPc="268438435"/>
+<entry endPc="268439093" name="valid" stackId="5" startPc="268438435"/>
+<entry endPc="268439093" name="HR" stackId="2" startPc="268438435"/>
+<entry endPc="268439093" name="bucket" stackId="3" startPc="268438435"/>
+<entry endPc="268439167" name="i" stackId="8" startPc="268439126"/>
+<entry endPc="268439280" name="i" stackId="9" startPc="268439234"/>
+<entry endPc="268439302" name="sensor_info" stackId="1" startPc="268438420"/>
+<entry endPc="268439474" name="keyEvent" stackId="1" startPc="268439325"/>
+<entry endPc="268439590" name="color" stackId="3" startPc="268439474"/>
+<entry endPc="268439590" name="minRange" stackId="2" startPc="268439474"/>
+<entry endPc="268439590" name="size" stackId="1" startPc="268439474"/>
+<entry endPc="268439605" name="color" stackId="1" startPc="268439590"/>
+<entry endPc="268439620" name="minRange" stackId="1" startPc="268439605"/>
+<entry endPc="268440075" name="min" stackId="5" startPc="268439967"/>
+<entry endPc="268440075" name="i" stackId="4" startPc="268439967"/>
+<entry endPc="268440191" name="max" stackId="7" startPc="268440083"/>
+<entry endPc="268440191" name="i" stackId="6" startPc="268440083"/>
+<entry endPc="268440197" name="updateMax" stackId="3" startPc="268439624"/>
+<entry endPc="268440197" name="updateMin" stackId="2" startPc="268439624"/>
+<entry endPc="268440198" name="value" stackId="1" startPc="268439620"/>
+<entry endPc="268440988" name="drawExtentsY" stackId="11" startPc="268440202"/>
+<entry endPc="268440988" name="drawExtentsX" stackId="10" startPc="268440202"/>
+<entry endPc="268440988" name="draw_idx" stackId="13" startPc="268440202"/>
+<entry endPc="268440988" name="min" stackId="4" startPc="268440202"/>
+<entry endPc="268440988" name="i" stackId="12" startPc="268440202"/>
+<entry endPc="268440988" name="prev_y" stackId="8" startPc="268440202"/>
+<entry endPc="268440988" name="range" stackId="5" startPc="268440202"/>
+<entry endPc="268440988" name="prev_x" stackId="9" startPc="268440202"/>
+<entry endPc="268440988" name="string" stackId="14" startPc="268440202"/>
+<entry endPc="268440988" name="y" stackId="6" startPc="268440202"/>
+<entry endPc="268440988" name="x" stackId="7" startPc="268440202"/>
+<entry endPc="268440989" name="dc" stackId="1" startPc="268440198"/>
+<entry endPc="268440989" name="bottomRight" stackId="3" startPc="268440198"/>
+<entry endPc="268440989" name="topLeft" stackId="2" startPc="268440198"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="StopMenu_MenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="StopMenu_MenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StartMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="StartMenu">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StartMenu_BehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKeyPressed" parent="StartMenu_BehaviorDelegate">
+<param id="keyEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SaveMenu_MenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="SaveMenu_MenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="createSaveMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RestingHR">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="RestingHR">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="RestingHR">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="RestingHR">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MainView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MainView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MainView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSnsr" parent="MainView">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainView_BehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKeyPressed" parent="MainView_BehaviorDelegate">
+<param id="keyEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="LineGraph">
+<param id="size"/>
+<param id="minRange"/>
+<param id="color"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="setColor" parent="LineGraph">
+<param id="color"/>
+<documentation><![CDATA[<div class="description"> Set graph line color<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="setMinRange" parent="LineGraph">
+<param id="minRange"/>
+<documentation><![CDATA[<div class="description"> Set graph line color<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="addItem" parent="LineGraph">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="LineGraph">
+<param id="dc"/>
+<param id="topLeft"/>
+<param id="bottomRight"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StopMenu">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="294" parentId="globals" symbolId="MainView_BehaviorDelegate" type="class"/>
+<dataEntry offset="349" parentId="globals" symbolId="SaveMenu_MenuDelegate" type="class"/>
+<dataEntry offset="404" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="483" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="522" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="561" parentId="Menus" symbolId="StopMenu" type="class"/>
+<dataEntry offset="608" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="639" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="670" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="701" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="772" parentId="globals" symbolId="RestingHR" type="class"/>
+<dataEntry offset="843" parentId="globals" symbolId="LineGraph" type="class"/>
+<dataEntry offset="962" parentId="globals" symbolId="MainView" type="class"/>
+<dataEntry offset="1233" parentId="globals" symbolId="StartMenu_BehaviorDelegate" type="class"/>
+<dataEntry offset="1288" parentId="globals" symbolId="StopMenu_MenuDelegate" type="class"/>
+<dataEntry offset="1343" parentId="globals" symbolId="StartMenu" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
